@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             string eingabe = Console.ReadLine();
             Console.WriteLine(eingabe);
+            Console.WriteLine("__________________________");
             Console.ReadKey();
         }
     }
